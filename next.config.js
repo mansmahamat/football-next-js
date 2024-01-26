@@ -16,5 +16,6 @@ module.exports = {
         hostname: "media-1.api-sports.io",
       },
     ],
+    domains: ["media.api-sports.io"],
   },
-}
+};
